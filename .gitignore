@@ -1,1 +1,15 @@
-GDM_model/
+GDM_model/__pycache__/
+GDM_model/.ipynb_checkpoints/
+GDM_model/GDM manual.pdf/
+GDM_model/contribution check/
+GDM_model/DataPreprocessing/NetcdfData/.ipynb_checkpoints
+GDM_model/DataPreprocessing/ObservedStationData/.ipynb_checkpoints
+GDM_model/Inputs/.ipynb_checkpoints
+GDM_model/ObservedPrecipitationTimeseriesData.tss
+GDM_model/01_initial_inputs/
+GDM_model/02_final_outputs/
+GDM_model/Inputs/
+GDM_model/DataPreprocessing/ObservedStationData/01_initial_inputs/
+GDM_model/DataPreprocessing/ObservedStationData/02_final_outputs/
+
+
